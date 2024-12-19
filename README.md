@@ -15,11 +15,10 @@
 
 
 ---勉強中の言語---
-- java
 - java script
 - Type script
 - swift
-- C++
+- C
 <!---
 ao132AO/ao132AO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
